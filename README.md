@@ -1,0 +1,2 @@
+# updateAllSearchRankings
+updateAllSearchRankings
