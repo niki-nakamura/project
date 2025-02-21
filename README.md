@@ -1,2 +1,1 @@
-# updateAllSearchRankings
-updateAllSearchRankings
+project
